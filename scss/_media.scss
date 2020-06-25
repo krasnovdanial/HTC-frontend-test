@@ -1,0 +1,174 @@
+@media (min-width: 4200px) {
+    .tv-programs-1 {
+        max-width: 580px;
+    }
+
+    .tv-programs-2 {
+        max-width: 580px;
+    }
+
+    .tv-programs-3 {
+        max-width: 580px;
+    }
+
+    .tv-programs-4 {
+        max-width: 580px;
+    }
+
+    .tv-programs-5 {
+        max-width: 580px;
+    }
+
+    .header__search-btn {
+        margin: 0 0 0 -30px;
+    }
+}
+
+@media (min-width: 2180px) {
+    .header__search-btn {
+        margin: 0 0 0 -30px;
+    }
+}
+
+
+@media (max-width: 1200px) {
+    .films__list {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media (max-width: 878px) {
+    .tv__container-logo {
+        display: none;
+    }
+}
+
+@media (max-width: 786px) {
+    .header {
+        width: 100%;
+    }
+
+    .header__inner {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .header__search-input {
+        max-width: 200px;
+        align-items: center;
+        margin: 0 0 0 90px;
+    }
+
+    .tv-programs-1 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .tv-programs-2 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .tv-programs-3 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .tv-programs-4 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .tv-programs-5 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .header__search {
+        margin: 30px 0 0 0 !important;
+    }
+
+    .header__login-btn {
+        margin: 20px 0 0 0 !important;
+    }
+
+    .header__form-search-btn {
+        margin: -25px 0 0 0px;
+        display: block !important;
+    }
+
+    .header__search-input {
+        display: none !important;
+    }
+
+    .header__search-btn {
+        display: none !important;
+    }
+}
+
+@media (max-width: 786px) {
+    .tv__container-item {
+        padding: 0 !important;
+    }
+}
+
+@media (max-width: 625px) {
+    .tv-program-block {
+        margin: 0 0 0 20px !important;
+    }
+
+    .tv-program__item {
+        left: 20px !important;
+    }
+}
+
+@media (max-width: 586px) {
+    .films__list {
+        justify-content: center !important;
+    }
+
+    .geners__list {
+        justify-content: center !important;
+    }
+
+    .films__item {
+        text-align: center;
+    }
+
+    .geners__header {
+        text-align: center;
+    }
+
+    .footer__container {
+        padding: 0 !important;
+    }
+     .tv-program-list-now {
+         white-space: nowrap;
+     }
+
+     .tv-program-list-show {
+         white-space: nowrap;
+     }
+}
+
+
+
+@media (max-width: 356px) {
+    .section-content-list {
+        text-align: center;
+    }
+
+    .footer__container-img {
+        display: none;
+    }
+
+    .footer__container-address {
+        padding: 0 0 0 50px !important;
+        margin: -30px 0 0 0 !important;
+    }
+
+    .section-content-btn {
+        margin: 0 !important;
+    }
+}
